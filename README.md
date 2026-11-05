@@ -53,9 +53,3 @@ DRY_RUN=1 ./Setup.sh 'qualquer-coisa'
 > **Observação!** caso tenha uma **GTX 550 Ti**, é recomendado utilizar o **kernel LTS** (`linux-lts`)
 
 ---
-
-<div align="center">
-
-<sub>feito com ✦ e um pouco de v a p o r</sub>
-
-</div>
